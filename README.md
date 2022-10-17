@@ -9,5 +9,5 @@ npm install
 # 起動
 npm start
 ```
-
+# できた
 http://localhost:3000 にアクセスしたらreact立ち上がるはず
